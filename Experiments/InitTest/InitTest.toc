@@ -1,0 +1,8 @@
+## Interface: 70300
+## Title: Initial Test
+## Version: 0.1
+## Author: MetalSVT
+## Notes: My initial test of AddOns.
+## SavedVariables: options
+InitTest.lua
+InitTest.xml
