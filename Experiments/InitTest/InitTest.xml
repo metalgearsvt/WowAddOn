@@ -6,7 +6,7 @@
   <Frame name="InitTestFrame">
    <Scripts>
     <OnLoad>
-     Greeting();
+      Greeting();
     </OnLoad>
    </Scripts>
   </Frame>
